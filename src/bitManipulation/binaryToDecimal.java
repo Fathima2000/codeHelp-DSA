@@ -3,7 +3,7 @@ package bitManipulation;
 public class binaryToDecimal {
 
 	public static void main(String[] args) {
-		int binary = 10111;
+		int binary = 10111; //binary cannot be shifted
 		int decimal = 0;
 		int i=0;
 		while(binary>0) {

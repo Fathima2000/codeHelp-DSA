@@ -25,7 +25,18 @@ public class basic1 {
 		
 		//integer by float is => float
 //		System.out.println(1/1.6);
-
+		
+//		int i;
+//		for(i=0;i<10;i++) {
+//			System.out.println(i);
+//		}
+		
+//		int i,j;
+//		j=10;
+//		i=(j++,j+100,999+j);
+//		System.out.println(i);
+//		output is 1010 in c++
+		
 		
 	}
 

@@ -3,7 +3,7 @@ package bitManipulation;
 public class decimalToBinary1 {
 
 	public static void main(String[] args) {
-		int n = 10;
+		int n = 13;
 		int binaryNumber = 0;
 		int i = 0;
 		while(n>0) {

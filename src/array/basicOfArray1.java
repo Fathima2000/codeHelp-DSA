@@ -1,6 +1,6 @@
 package array;
 
-public class basicOfArray {
+public class basicOfArray1 {
 	
 	public static void variableFunction(int n){
 		n = 100;
