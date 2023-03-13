@@ -7,9 +7,7 @@ public class palindromeString2 {
 		for(int i=0;i<n/2;i++) {
 			char ch1 = str.charAt(i);
 			char ch2 = str.charAt(n-i-1);
-			if(ch1 == ch2) //Equals sign exists
-				continue;
-			else
+			if(ch1 != ch2) 
 				return false;
 		}
 		return true;
@@ -21,3 +19,5 @@ public class palindromeString2 {
 		String str = "rabbar";
 		System.out.println(palindrome(str));	}
 }
+
+//https://practice.geeksforgeeks.org/problems/palindrome-string0817/1

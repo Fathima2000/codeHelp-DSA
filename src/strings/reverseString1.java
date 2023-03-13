@@ -14,5 +14,5 @@ public class reverseString1 {
 		if(str.equals(s))
 			System.out.println("true");
 	}
-
+//	https://practice.geeksforgeeks.org/problems/reverse-a-string/1
 }

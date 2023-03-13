@@ -15,7 +15,7 @@ public class basics {
 		// this will not take space, next line, tab		
 //		ch = sc.next().toCharArray();
 		
-		ch = sc.nextLine().toCharArray();
+		ch = sc.nextLine().toCharArray(); //nextLine instead of next
 		
 		System.out.println(ch.length);
 		
